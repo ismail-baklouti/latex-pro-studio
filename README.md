@@ -73,6 +73,20 @@ The assistant shows output in the dialog and offers `Insert Into Editor` for gen
 - If you don't want to store keys in `.env`, you can paste a provider key directly into the AI Assistant and check `Save`.
 - If a provider package is missing, the assistant will report which package to install (for example `pip install openai` or `pip install anthropic`).
 
+## 🌍 Project Site
+
+This repository can be published as a GitHub Pages site at:
+
+- https://ismail-baklouti.github.io/latex-pro-studio (project page)
+
+To publish:
+
+1. Ensure the `docs/` folder exists (this repo includes a basic `docs/index.md`).
+2. In the repository on GitHub, go to Settings → Pages.
+3. Set the source to `main` branch and the `/docs` folder, then save.
+
+You can also link to your main site: https://ismail-baklouti.github.io/
+
 ## 📂 Repository Structure
 
 ## core/: Logic for LaTeX compilation and AI communication.
