@@ -1,0 +1,36 @@
+# --- UI & Experience ---
+# Modern styling wrapper for Tkinter
+ttkbootstrap==1.10.1
+# Image handling (Icons, Profile Pictures)
+Pillow>=10.0.0
+
+# --- PDF & Document Processing ---
+# High-performance PDF rendering (fitz)
+pymupdf>=1.22.0
+# Alternative PDF to image conversion
+pdf2image>=1.16.0
+
+# --- AI Integrations ---
+# Google Gemini API
+google-generativeai>=0.3.0
+# OpenAI ChatGPT API
+openai>=1.0.0
+# Anthropic Claude API
+anthropic>=1.0.0
+
+# --- Citation Management & Networking ---
+# HTTP requests for Mendeley OAuth
+requests>=2.31.0
+# Zotero API wrapper
+pyzotero>=1.5.0
+
+# --- Utilities & System ---
+# Securely manage API Keys via .env files
+python-dotenv>=1.0.0
+# Windows-specific API access (Icons, Registry)
+# Note: This will only install on Windows systems
+pywin32>=306; sys_platform == 'win32'
+
+# --- BibTeX Handling (Optional but recommended for 'Pro' features) ---
+# Better BibTeX parsing than just Regex
+bibtexparser>=1.4.0

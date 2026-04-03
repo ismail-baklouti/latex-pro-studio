@@ -1,0 +1,66 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv
+venv/
+ENV/
+env/
+build/
+dist/
+*.spec
+
+# --- LaTeX Auxiliary Files (IMPORTANT) ---
+# These are generated during compilation and should not be on GitHub
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.blg
+*.bbl
+*.run.xml
+*.bcf
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*_minted*
+.auctex-auto/
+_thmms/
+
+# --- Project Outputs ---
+# We usually ignore PDFs because they are generated from the .tex source
+*.pdf
+
+# --- Security & API Keys (CRITICAL) ---
+# Never upload your API keys to GitHub!
+.env
+auth_session.json
+credentials.json
+*.key
+secrets.py
+
+# --- Editor & IDE Specific ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Data & Logs ---
+*.log
+logs/
+temp/
+tmp/
