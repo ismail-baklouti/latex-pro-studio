@@ -95,9 +95,9 @@ This repository can be published as a GitHub Pages site at:
 ## Commit your Changes.
 ## Open a Pull Request.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-## Ismail Baklouti
+## Ismail Baklouti & Muhammad Abdul Mujeebu
 ## GitHub: @ismail-baklouti
 ## Professional Focus: AI Engineering, Document Automation, Python UI Development.
 
