@@ -79,14 +79,6 @@ This repository can be published as a GitHub Pages site at:
 
 - https://ismail-baklouti.github.io/latex-pro-studio (project page)
 
-To publish:
-
-1. Ensure the `docs/` folder exists (this repo includes a basic `docs/index.md`).
-2. In the repository on GitHub, go to Settings → Pages.
-3. Set the source to `main` branch and the `/docs` folder, then save.
-
-You can also link to your main site: https://ismail-baklouti.github.io/
-
 ## 📂 Repository Structure
 
 ## core/: Logic for LaTeX compilation and AI communication.
