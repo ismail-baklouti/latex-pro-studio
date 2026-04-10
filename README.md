@@ -99,6 +99,7 @@ This repository can be published as a GitHub Pages site at:
 
 ## Ismail Baklouti & Muhammad Abdul Mujeebu
 ## GitHub: @ismail-baklouti
+## GitHub: @mamujeebu
 ## Professional Focus: AI Engineering, Document Automation, Python UI Development.
 
 ## 📜 License
